@@ -1,4 +1,4 @@
--- Simple Test GUI for Nexbyte Hub
+-- Author: Axrex
 local CoreGui = game:GetService("CoreGui")
 local Players = game:GetService("Players")
 
