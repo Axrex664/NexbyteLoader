@@ -1,2 +1,2 @@
-
+-- Author: Axrex
 loadstring(game:HttpGet("https://raw.githubusercontent.com/mmr1337/loader.lua/refs/heads/main/moon"))()
