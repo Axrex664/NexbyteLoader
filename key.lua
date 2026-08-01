@@ -1,5 +1,0 @@
-return {
-    "NEXBYTE-KEY-1234",
-    "NEXBYTE-KEY-5678",
-    "NEXBYTE-VIP-9999"
-}
