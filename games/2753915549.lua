@@ -4014,8 +4014,8 @@ function CheckItemBPCRBPCR(p49)
 end
 
 local _Redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Axrex664/library/refs/heads/main/bfui.lua"))():MakeWindow({
-	Title = "Nexbyte - Blox Fruits",
-	SubTitle = "Nexbyte",
+	Title = "RedzHuB Cracked By Nexbyte & Rabelqwe - Blox Fruits",
+	SubTitle = "Nexbyte <3 Rabelqwe",
 	SaveFolder = "Nexbyte - Blox Fruits"
 })
 local ScreenGui = Instance.new("ScreenGui")
